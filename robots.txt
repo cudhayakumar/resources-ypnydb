@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cudhayakumar.github.io/resources-ypnydb/sitemap.xml
